@@ -6,7 +6,7 @@
 2. Upstream Analysis for Target Sequencing [Slide&Script](/home/duydao/CBBNGS2024/02_Upstream), [Video](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=5)
    - Raw Data processing (Quality control, trimming & filtering)
    - Sequence Alignment (Mapping)
-3. Downstream Analysis [Slide&Script](CBBNGS2024/03_Downstream)
+3. Downstream Analysis [Slide&Script](03_Downstream/)
    - Variant calling and Filtering [Video](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6)
    - Variant annotation [Video](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8)
 4. Discussion
