@@ -126,5 +126,5 @@ gatk --java-options "-Xmx4G" Funcotator \
 # Parsing result into tab-delimited file
 gatk VariantsToTable \
     -V "annotation/S11.haplotypecaller.snps.indels.ann.vcf.gz" -F AC -F AN -F DP -F AF -F FUNCOTATION \
-    -O "annotation/S11.haplotypecaller.snps.indels.ann.tsv"
+    -O "annotation/S11.haplotypecaller.indels.filtered.ann.tsv"
 ```
