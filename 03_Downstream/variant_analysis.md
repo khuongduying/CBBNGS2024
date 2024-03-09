@@ -1,5 +1,7 @@
 # Practice with variant calling, filtering and annotation
 
+> One can perform all steps without having to install anything through this notebook: [Variant_analysis in cloud](https://colab.research.google.com/drive/1m4pCPuewYHemnWwn31kOEDHt0rB5hOgk?usp=drive_link).
+
 ## Table of Contents
 
 - [Practice with variant calling, filtering and annotation](#practice-with-variant-calling-filtering-and-annotation)
